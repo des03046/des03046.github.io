@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About
+title: About me
 tags: [about]
 date: 2016-03-21
 comments: false
 ---
     
-<center>2년차 개발자 임지섭 입니다</center>
+<center>저에 대해 소게하겠습니다</center>
 
-## Features
+## who am I?
 * Minimal, you can focus on your content
 * Responsive
 * Disqus integration
