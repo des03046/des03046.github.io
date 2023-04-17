@@ -7,8 +7,8 @@ words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
-url:                https://taylantatli.github.io/Moon
+locale:             ko_KR
+url:                
 
 # Jekyll
 permalink:          /:title/
@@ -37,7 +37,7 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:             des03046@naver.com
+email:             trixi156923@gmail.com
 #twitter:            username
 #facebook:           username
 github-url:         username
