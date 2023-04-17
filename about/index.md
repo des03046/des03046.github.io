@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-<center>저에 대해 소게하겠습니다</center>
+<center>저에 대해 소개하겠습니다</center>
 
 ## who am I?
 * Minimal, you can focus on your content
